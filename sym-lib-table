@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "2026-10-17_18-14-46") (type "KiCad") (uri "${KIPRJMOD}/libraries/AO3400A/KiCADv6/2026-10-17_18-14-46.kicad_sym") (options "") (descr ""))
+	(lib (name "ledboard_indicators") (type "KiCad") (uri "${KIPRJMOD}/libraries/ledboard_indicators.kicad_sym") (options "") (descr ""))
+)
